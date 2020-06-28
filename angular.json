@@ -110,6 +110,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "temperatureConverter"
+    }
+  },
+  "defaultProject": "temperatureConverter",
+  "cli": {
+    "analytics": "56bf2d60-9e87-4a53-a4bb-54a0fc995c55"
+  }
 }
